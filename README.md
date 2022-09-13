@@ -5,6 +5,7 @@ In **notebook/ELMO-tesk-task** I made EDA and Model with hyperparameters tuning
 ```.bash
 #Before everything
 pip install -r requirement.txt
+
 #Run app.py that contains all the required for Flask and manage APIs to deploy intent classification
 python app.py
 
